@@ -1,0 +1,21 @@
+# Network and Security
+scapy>=2.5.0
+python-nmap>=0.7.1
+netifaces>=0.11.0
+requests>=2.28.2
+paramiko>=3.3.1
+dnspython>=2.4.2
+getmac>=0.9.4
+
+# GUI and Terminal Interface
+rich>=13.6.0
+tkinter  # Usually comes with Python
+pillow>=10.0.0  # For image handling in GUI
+
+# Utilities
+python-dotenv>=1.0.0  # For environment variables
+cryptography>=41.0.0  # For security features
+pyOpenSSL>=23.2.0  # For SSL/TLS analysis
+psutil>=5.9.5  # For system and process utilities
+ipaddress>=1.0.23  # For IP address handling
+wakeonlan==3.0.0 
