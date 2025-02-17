@@ -91,6 +91,9 @@ Net-Ceptor Toolkit is a powerful network analysis and security assessment tool d
    ```cmd
    pip install -r requirements.txt
    ```
+```cmd
+   pip install scapy>=2.5.0 python-nmap>=0.7.1 netifaces>=0.11.0 requests>=2.28.2 paramiko>=3.3.1 dnspython>=2.4.2 getmac>=0.9.4 rich>=13.6.0 pillow>=10.0.0 python-dotenv>=1.0.0 cryptography>=41.0.0 pyOpenSSL>=23.2.0 psutil>=5.9.5 ipaddress>=1.0.23 wakeonlan==3.0.0
+```
 
 ## 🚀 Usage
 
